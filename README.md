@@ -11,7 +11,7 @@
 
 | Member | Contribution   |
 | ------ | -------------- |
-| [Name] | [Contribution] |
+| [Nithin] | [Contribution] |
 | [Name] | [Contribution] |
 | [Name] | [Contribution] |
 | [Name] | [Contribution] |
